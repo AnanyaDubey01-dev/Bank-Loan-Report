@@ -95,7 +95,7 @@ Key SQL operations include:
 * Generating month-over-month (MoM) and month-to-date (MTD) performance metrics
 * Analyzing customer behavior by purpose, state, employee length, term, and home ownership
 
-You can find the SQL queries [**here**] .
+You can find the SQL queries [**here**] https://github.com/AnanyaDubey01-dev/Bank-Loan-Report/blob/main/Bank_Loan%20SQL%20queries.docx
 
 ---
 
